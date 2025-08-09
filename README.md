@@ -42,5 +42,4 @@ It uses **descriptive analytics** to provide insights into historical sales tren
 
 ---
 
-**Author:** [Your Name]  
-**License:** MIT (code & documentation only, dataset license follows Kaggle terms)
+**Author:** Jayashri V J
